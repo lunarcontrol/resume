@@ -78,3 +78,7 @@
 .print-force-new-page {
   page-break-before: always;
 }
+.education-icon {
+  display: inline; 
+  vertical-align: unset;
+}
