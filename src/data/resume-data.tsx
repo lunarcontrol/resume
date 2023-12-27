@@ -82,7 +82,7 @@ export const RESUME_DATA = {
       start: "2022",
       end: "2023",
       description:
-        "Created Android mobile apps and led teams for companies like Vision Media, DKMS, or AAA. Built live streaming application for Evercast from scratch. Technologies: Android, Kotlin, React, TypeScript, GraphQL",
+        "As a customer service and technical support specialist, I provided direct and timely assistance to a diverse range of users, from internal staff to external clients. I investigated and resolved various issues, such as software malfunctions, data backups, and network connectivity, using my knowledge of Tier 1-3 technical support protocols. I also performed computer upgrades and installations, supported multiple systems and platforms, and assisted with Windows patch management and security updates. Additionally, I worked in a GxP environment, where I provided technical support to the QC labs and MFG suites, and performed user, lab, and GMP software installations. I demonstrated strong troubleshooting and problem-solving skills, as well as the ability to recommend effective solutions.",
     },
     {
       company: "San Jose State University - Associated Students",
