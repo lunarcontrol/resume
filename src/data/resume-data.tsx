@@ -54,7 +54,7 @@ export const RESUME_DATA = {
   education: [
     {
       school: "San Jose State University",
-      degree: "Bachelor's Degree in Engineering Technology <br> Focus: Computer Network Systems Management (CNSM)",
+      degree: "Bachelor's Degree in Engineering Technology \n Focus: Computer Network Systems Management (CNSM) Minor: Business Management",
       start: "2017",
       end: "2021",
     },
