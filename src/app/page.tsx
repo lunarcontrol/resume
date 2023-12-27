@@ -9,6 +9,7 @@ import { Button } from "../components/ui/button";
 import { RESUME_DATA } from "../data/resume-data";
 import { ProjectCard } from "../components/project-card";
 import { CompanyIcon } from "../components/icons/CompanyIcon"
+import { EducationIcon } from "../components/icons/EducationIcon"
 
 export const metadata: Metadata = {
   title: `${RESUME_DATA.name} | ${RESUME_DATA.about}`,
