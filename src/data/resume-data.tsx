@@ -25,14 +25,14 @@ export const RESUME_DATA = {
   location: "Oakland, CA",
   locationLink: "https://www.google.com/maps/place/Oakland,CA",
   about:
-    "Full Stack Engineer focused on building products with extra attention to details",
+    "System Administrator focused on implmenenting new products and expanding current products with automation",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
+    "System Administrator with a passion for automation and 4 years of experience in managing and optimizing Windows and Linux servers, cloud services, and network devices. Proficient in PowerShell, Python, Bash, and Ansible. I have over 8 years of IT experience and can rapidly learn new technologies.",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
   personalWebsiteUrl: "https://whitaker.one",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "roycewhitaker@rocketmail.com",
+    tel: "707-504-8474",
     social: [
       {
         name: "GitHub",
