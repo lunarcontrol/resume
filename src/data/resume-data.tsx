@@ -61,8 +61,8 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "Parabol",
-      link: "https://parabol.co",
+      company: "Sutro Biopharma",
+      link: "https://sutrobio.com",
       badges: ["Remote"],
       title: "Senior Full Stack Developer",
       logo: ParabolLogo,
@@ -72,8 +72,8 @@ export const RESUME_DATA = {
         "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
     },
     {
-      company: "Clevertech",
-      link: "https://clevertech.biz",
+      company: "Sutro Biopharma",
+      link: "https://sutrobio.com",
       badges: ["Remote"],
       title: "Lead Android Developer → Full Stack Developer",
       logo: ClevertechLogo,
@@ -83,8 +83,8 @@ export const RESUME_DATA = {
         "Created Android mobile apps and led teams for companies like Vision Media, DKMS, or AAA. Built live streaming application for Evercast from scratch. Technologies: Android, Kotlin, React, TypeScript, GraphQL",
     },
     {
-      company: "Jojo Mobile",
-      link: "https://bsgroup.eu/",
+      company: "San Jose State University - Associated Students",
+      link: "https://www.sjsu.edu/as/",
       badges: [],
       title: "Android Developer → Lead Android Developer",
       logo: JojoMobileLogo,
@@ -94,10 +94,10 @@ export const RESUME_DATA = {
         "Built an Android team, created Android apps for biggest Polish companies like LOT, Polskie Radio, Agora, PolskaPress",
     },
     {
-      company: "Nokia Siemens Networks",
-      link: "https://www.nokia.com",
+      company: "Harbor Electronics",
+      link: "https://www.harbor-electronics.com/",
       badges: [],
-      title: "C/C++ Developer",
+      title: "Jr. System Administrator",
       logo: NSNLogo,
       start: "2010",
       end: "2012",
