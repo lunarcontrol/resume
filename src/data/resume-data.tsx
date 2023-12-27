@@ -23,13 +23,13 @@ export const RESUME_DATA = {
   name: "Royce Whitaker",
   initials: "RW",
   location: "Oakland, CA",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  locationLink: "https://www.google.com/maps/place/Oakland,CA",
   about:
     "Full Stack Engineer focused on building products with extra attention to details",
   summary:
     "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "https://whitaker.one",
   contact: {
     email: "bartosz.jarocki@hey.com",
     tel: "+48530213401",
@@ -54,7 +54,7 @@ export const RESUME_DATA = {
   education: [
     {
       school: "San Jose State University",
-      degree: "Bachelor's Degree in Engineering Technology",
+      degree: "B.S. Engineering Technology",
       start: "2017",
       end: "2021",
       focus: "Computer Network Systems Management (CNSM)",
@@ -107,9 +107,9 @@ export const RESUME_DATA = {
     },
   ],
   skills: [
-    "JavaScript",
-    "TypeScript",
-    "React/Next.js/Remix",
+    "Windows Server",
+    "Python",
+    "Powershell",
     "Node.js",
     "GraphQL",
     "Relay",
