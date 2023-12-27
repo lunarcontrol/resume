@@ -65,7 +65,7 @@ export const RESUME_DATA = {
     {
       company: "Sutro Biopharma",
       link: "https://sutrobio.com",
-      badges: ["Remote"],
+      badges: [],
       title: "Desktop Support Specialist",
       logo: ParabolLogo,
       start: "2023",
@@ -76,7 +76,7 @@ export const RESUME_DATA = {
     {
       company: "Sutro Biopharma",
       link: "https://sutrobio.com",
-      badges: ["Remote"],
+      badges: [],
       title: "Contract Desktop Support Specialist",
       logo: ClevertechLogo,
       start: "2022",
@@ -110,10 +110,11 @@ export const RESUME_DATA = {
     "Windows Server",
     "Python",
     "Powershell",
-    "Node.js",
-    "GraphQL",
-    "Relay",
-    "WebRTC",
+    "Microsoft Graph",
+    "Automation",
+    "Scripting",
+    "MDM",
+    "Intune",
   ],
   projects: [
     {
