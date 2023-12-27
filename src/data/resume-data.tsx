@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "System Administrator focused on implmenenting new products and expanding current products with automation",
   summary:
-    "System Administrator with a passion for automation and 4 years of experience in managing and optimizing Windows and Linux servers, cloud services, and network devices. Proficient in PowerShell, Python, Bash, and Ansible. I have over 8 years of IT experience and can rapidly learn new technologies.",
+    "System Administrator with a passion for automation and 4 years of experience in managing and optimizing Windows and Linux servers, cloud services, and network devices. Proficient in PowerShell, Python, Bash, and Microsoft Graph. I have over 8 years of IT experience and can rapidly learn new technologies.",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
   personalWebsiteUrl: "https://whitaker.one",
   contact: {
