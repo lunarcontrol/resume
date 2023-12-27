@@ -88,7 +88,7 @@ export const RESUME_DATA = {
       company: "San Jose State University - Associated Students",
       link: "https://www.sjsu.edu/as/",
       badges: [],
-      title: "Android Developer → Lead Android Developer",
+      title: "IT Support Specialist",
       logo: JojoMobileLogo,
       start: "2017",
       end: "2022",
