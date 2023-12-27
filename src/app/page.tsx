@@ -143,8 +143,8 @@ export default function Page() {
                   </div>
                 </CardHeader>
                 <CardContent className="mt-2">{education.degree}</CardContent>
-                <CardContent className="mt-2">{education.focus}</CardContent>
-                <CardContent className="mt-2">{education.minor}</CardContent>
+                <CardContent className="mt-2 text-xs">Focus: {education.focus}</CardContent>
+                <CardContent className="mt-2 text-xs">Minor: {education.minor}</CardContent>
               </Card>
             );
           })}
