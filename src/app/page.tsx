@@ -137,7 +137,7 @@ export default function Page() {
               <Card key={education.school}>
                 <CardHeader>
                   <div className="flex items-center justify-between gap-x-2 text-base">
-                    <h3 className="font-semibold leading-none">
+                    <h3 className="font-semibold leading-none inline-flex items-center justify-center gap-x-1">
                       <EducationIcon className="education-icon" />
                       {education.school}
                     </h3>
