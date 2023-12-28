@@ -71,7 +71,7 @@ export const RESUME_DATA = {
       start: "2023",
       end: "Present",
       description:
-        "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
+        "After being converted to a full time employee, my responsiblities expanded to include ...",
     },
     {
       company: "Sutro Biopharma",
