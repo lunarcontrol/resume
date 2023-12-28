@@ -93,7 +93,7 @@ export const RESUME_DATA = {
       start: "2017",
       end: "2022",
       description:
-        "Built an Android team, created Android apps for biggest Polish companies like LOT, Polskie Radio, Agora, PolskaPress",
+        "...",
     },
     {
       company: "Harbor Electronics",
