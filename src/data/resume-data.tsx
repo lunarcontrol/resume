@@ -93,7 +93,7 @@ export const RESUME_DATA = {
       start: "2017",
       end: "2022",
       description:
-        "...",
+        "As an IT support specialist, I was responsible for ensuring the smooth operation and security of the computer systems and networks used by over 200 employees and students. I performed regular maintenance and repairs on various types of computers, managed user accounts and permissions using Microsoft Active Directory, and protected the local web services that handle work orders and company assets.",
     },
     {
       company: "Harbor Electronics",
