@@ -103,7 +103,7 @@ export const RESUME_DATA = {
       logo: NSNLogo,
       start: "2021",
       end: "2022",
-      description: "Creating and testing software for LTE base stations",
+      description: "As a Jr. System Administrator, I was responsible for maintaining and managing the company’s network infrastructure, including domain, thin clients, servers, routers, and switches. I also handled various technical issues for machines and devices running on different operating systems and software, such as Windows, Linux, and CentOS. Additionally, I provided remote support for in-production equipment, such as printers, microscopes, cameras, drill machines, lamination machines, and engineering machines, using tools such as ConnectWise Control, VNC, and TeamViewer.",
     },
   ],
   skills: [
