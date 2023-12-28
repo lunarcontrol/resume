@@ -71,7 +71,7 @@ export const RESUME_DATA = {
       start: "2023",
       end: "Present",
       description:
-        "After being converted to a full time employee, my responsiblities expanded to include ...",
+        "After being converted to a full time employee, my responsiblities expanded to include SharePoint administration and expanded opportunities to develop automations. I am responsible for creating and maintaining SharePoint sites for the company. I ensure optimal performance and security of the sites by using industry best-practices and moving permission controls to Azure AD/On-prem AD security groups. I also manage hardware assets and software licensing of user computers, reducing costs and improving efficiency. Additionally, I develop scripts and automations to provision user computers, streamlining the onboarding and maintenance processes. Furthermore, I integrate apps into an Microsoft Intune to manage app installations, improving user experience and productivity.",
     },
     {
       company: "Sutro Biopharma",
