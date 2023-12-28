@@ -115,6 +115,11 @@ export const RESUME_DATA = {
     "Scripting",
     "MDM",
     "Intune",
+    "Connectwise",
+    "Zendesk",
+    "Office 365",
+    "SharePoint Online",
+    "Active Directory",
   ],
   projects: [
     {
