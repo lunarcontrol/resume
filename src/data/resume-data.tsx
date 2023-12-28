@@ -85,6 +85,16 @@ export const RESUME_DATA = {
         "I provided direct assistance to internal staff and external contractors. I investigated and resolved various issues, such as software malfunctions, data backups, and network connectivity. I also performed computer upgrades and installations, supported multiple systems and platforms, and assisted with Windows patch management and security updates. Additionally, I supported a GxP environment, where I provided technical support to the QC labs and MFG suites. I utilized my strong troubleshooting and problem-solving skills to find effective solutions.",
     },
     {
+      company: "Harbor Electronics",
+      link: "https://www.harbor-electronics.com/",
+      badges: [],
+      title: "Jr. System Administrator",
+      logo: NSNLogo,
+      start: "2021",
+      end: "2022",
+      description: "As a Jr. System Administrator, I was responsible for maintaining and managing the company’s network infrastructure, including domain, thin clients, servers, routers, and switches. I also handled various technical issues for machines and devices running on different operating systems and software, such as Windows, Linux, and CentOS. Additionally, I provided remote support for in-production equipment, such as printers, microscopes, cameras, drill machines, lamination machines, and engineering machines, using tools such as ConnectWise Control, VNC, and TeamViewer.",
+    },
+    {
       company: "San Jose State University - Associated Students",
       link: "https://www.sjsu.edu/as/",
       badges: [],
@@ -94,16 +104,6 @@ export const RESUME_DATA = {
       end: "2022",
       description:
         "As an IT support specialist, I was responsible for ensuring the smooth operation and security of the computer systems and networks used by over 200 employees and students. I performed regular maintenance and repairs on various types of computers, managed user accounts and permissions using Microsoft Active Directory, and protected the local web services that handle work orders and company assets.",
-    },
-    {
-      company: "Harbor Electronics",
-      link: "https://www.harbor-electronics.com/",
-      badges: [],
-      title: "Jr. System Administrator",
-      logo: NSNLogo,
-      start: "2021",
-      end: "2022",
-      description: "As a Jr. System Administrator, I was responsible for maintaining and managing the company’s network infrastructure, including domain, thin clients, servers, routers, and switches. I also handled various technical issues for machines and devices running on different operating systems and software, such as Windows, Linux, and CentOS. Additionally, I provided remote support for in-production equipment, such as printers, microscopes, cameras, drill machines, lamination machines, and engineering machines, using tools such as ConnectWise Control, VNC, and TeamViewer.",
     },
   ],
   skills: [
