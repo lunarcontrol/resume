@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "System Administrator focused on implmenenting new technologies and expanding current products with automation",
   summary:
-    "Aspriring System Administrator with a passion for automation and 4 years of experience in managing and optimizing Windows and Linux servers, cloud services, and network devices. Proficient in PowerShell, Python, Bash, and Microsoft Graph. I have over 8 years of IT experience and can rapidly learn new technologies.",
+    "Aspiring System Administrator with a passion for automation and managing desktops, servers, cloud services, and network devices. Proficient in PowerShell, Python, Bash, and Microsoft Graph. I have over 8 years of IT experience and can rapidly learn new technologies.",
   avatarUrl: "https://raw.githubusercontent.com/lunarcontrol/resume/main/src/app/profile-pic.png",
   personalWebsiteUrl: "https://whitaker.one",
   contact: {
