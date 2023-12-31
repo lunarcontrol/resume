@@ -25,9 +25,9 @@ export const RESUME_DATA = {
   location: "Oakland, CA",
   locationLink: "https://www.google.com/maps/place/Oakland,CA",
   about:
-    "System Administrator focused on implmenenting new products and expanding current products with automation",
+    "System Administrator focused on implmenenting new technologies and expanding current products with automation",
   summary:
-    "System Administrator with a passion for automation and 4 years of experience in managing and optimizing Windows and Linux servers, cloud services, and network devices. Proficient in PowerShell, Python, Bash, and Microsoft Graph. I have over 8 years of IT experience and can rapidly learn new technologies.",
+    "Aspriring System Administrator with a passion for automation and 4 years of experience in managing and optimizing Windows and Linux servers, cloud services, and network devices. Proficient in PowerShell, Python, Bash, and Microsoft Graph. I have over 8 years of IT experience and can rapidly learn new technologies.",
   avatarUrl: "https://raw.githubusercontent.com/lunarcontrol/resume/main/src/app/profile-pic.png",
   personalWebsiteUrl: "https://whitaker.one",
   contact: {
