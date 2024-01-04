@@ -34,3 +34,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Flask
+migrations/
+*.db
+*.pyc
+*.DS_Store
+venv/
+__pycache__/
+.env
+.vscode/settings.json
